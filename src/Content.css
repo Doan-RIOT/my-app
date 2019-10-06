@@ -1,0 +1,38 @@
+#content{
+    border-top: 2px solid blue;
+    font-family: 'Quicksand', sans-serif;
+    background: #fff;
+    height: 200px;
+    width: 700px;
+}
+
+#content img{
+    margin-top: 10px;
+    float: left;
+    margin-right: 10px;
+    height: 150px;
+    width: 300px;
+}
+#content h1{
+    padding: 0px;
+    color: #3498db;
+    font-weight: bold;
+    font-size: 15px;
+}
+#content h5{
+    color: #7f8c8d;
+    font-weight: bold; 
+    font-size: 12px; 
+}
+p{
+    font-size: 15px;
+}
+
+#content a{
+    border: 1px solid #74b9ff;
+    background: #74b9ff;
+    border-radius: 5px;
+    padding: 7px 12px;
+    color: #fff;
+    font-size: 10px;
+}
