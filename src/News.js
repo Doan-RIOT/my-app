@@ -8,20 +8,20 @@ class News extends React.Component{
         <div className="ad">
            <h1>Bài viết mới</h1>
            <New
-           src="https://anhdephd.com/wp-content/uploads/2017/05/hinh-nen-yasuo-dep-nhat.jpg"
+           src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
            name="Hãy sẵn sàng với serveress"
            dt= "th11.28.2018 | Công nghệ. Hệ điều hành. Máy chủ web. Môi trường phát triển"
            ></New>
 
           <New
-          src="https://image1.infogame.vn/2019/04/09/avatar-yasuo.jpg"
-           name="Chữ mờ quá đọc éo được"
+          src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
+           name=""
            dt= "th11.28.2018 | Công nghệ. Hệ điều hành. Máy chủ web. Môi trường phát triển"
            ></New>
 
           <New
-           src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbwFpxdXT7hdimSKE86pqGVNR5gm8NNa9kWBg4AMP9TS5tPZc"
-           name="Áp dụng chiêu thức vô học vào lập trình???"
+           src="https://bs-uploads.toptal.io/blackfish-uploads/blog/post/seo/og_image_file/og_image/16097/react-context-api-4929b3703a1a7082d99b53eb1bbfc31f.png"
+           name=""
            dt= "th4.10.2018 | Lập trình"
            ></New>
 
